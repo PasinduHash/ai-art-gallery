@@ -36,7 +36,10 @@ git clone https://github.com/PasinduHash/ai-art-gallery.git
 ```
 ### Screenshots
 
-![Screenshot from 2023-06-16 02-12-26]()
+![Screenshot from 2023-07-12 00-14-05](https://github.com/PasinduHash/ai-art-gallery/assets/117537549/74eacb40-c95d-4098-840b-cbc2433d6baa)
+![Screenshot from 2023-07-12 00-15-34](https://github.com/PasinduHash/ai-art-gallery/assets/117537549/8f5d3b4d-3354-45bb-9f12-971e28e0f3a5)
+
+
 
 ### Contributing
 
