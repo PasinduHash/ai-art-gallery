@@ -9,7 +9,6 @@
 
 ## Technologies used
 ### Front-End
-![Java](https://img.shields.io/badge/Java-Language-orange)
 ![HTML5](https://img.shields.io/badge/HTML5-Technology-E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-Technology-1572B6)
 ![SCSS](https://img.shields.io/badge/SCSS-Technology-CC6699)
